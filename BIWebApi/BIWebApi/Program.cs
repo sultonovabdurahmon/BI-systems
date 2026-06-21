@@ -14,6 +14,8 @@ namespace BIWebApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddAppDI();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

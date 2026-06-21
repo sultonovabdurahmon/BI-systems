@@ -3,20 +3,96 @@
   "WorkspaceRootPath": "D:\\GitHub\\BI-systems\\BIWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\biwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\biwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|d:\\github\\bi-systems\\biwebapi\\bi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|solutionrelative:bi.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|d:\\github\\bi-systems\\biwebapi\\bi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|solutionrelative:bi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|d:\\github\\bi-systems\\biwebapi\\bi.infrastructure\\bi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B54C443-5AD7-45EB-BB74-A240E86F91B2}|BI.Infrastructure\\BI.Infrastructure.csproj|solutionrelative:bi.infrastructure\\bi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1CBBD5E-A3E9-4794-ADB9-C42D67626AE8}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\biwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\biwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B731423-AA14-43AD-A7E8-EFA6DDF316B9}|BI.Application\\BI.Application.csproj|d:\\github\\bi-systems\\biwebapi\\bi.application\\bi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B731423-AA14-43AD-A7E8-EFA6DDF316B9}|BI.Application\\BI.Application.csproj|solutionrelative:bi.application\\bi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B731423-AA14-43AD-A7E8-EFA6DDF316B9}|BI.Application\\BI.Application.csproj|d:\\github\\bi-systems\\biwebapi\\bi.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B731423-AA14-43AD-A7E8-EFA6DDF316B9}|BI.Application\\BI.Application.csproj|solutionrelative:bi.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\bi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\bi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\nomenclature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\nomenclature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\lookups\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\lookups\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\lookups\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\lookups\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\lookups\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\lookups\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|d:\\github\\bi-systems\\biwebapi\\bi.domain\\entities\\base\\baselookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED9939-D854-4ABA-AEB4-1BCD4F644133}|BI.Domain\\BI.Domain.csproj|solutionrelative:bi.domain\\entities\\base\\baselookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|d:\\github\\bi-systems\\biwebapi\\biwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED4927FA-C012-3A0A-05EF-D3F4704E4E3F}|BIWebApi\\BIWebApi.csproj|solutionrelative:biwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,6 +104,97 @@
           "DockedHeight": 320,
           "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BI.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BI.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T13:31:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BIWebApi\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\DependencyInjection.cs",
+              "RelativeToolTip": "BIWebApi\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:46:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BI.Infrastructure",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\BI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BI.Infrastructure\\BI.Infrastructure.csproj",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\BI.Infrastructure.csproj",
+              "RelativeToolTip": "BI.Infrastructure\\BI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T12:41:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BI.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "BI.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:41:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BI.Domain",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\BI.Domain.csproj",
+              "RelativeDocumentMoniker": "BI.Domain\\BI.Domain.csproj",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\BI.Domain.csproj",
+              "RelativeToolTip": "BI.Domain\\BI.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T12:40:24.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "BI.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:40:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BI.Application",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Application\\BI.Application.csproj",
+              "RelativeDocumentMoniker": "BI.Application\\BI.Application.csproj",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Application\\BI.Application.csproj",
+              "RelativeToolTip": "BI.Application\\BI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-21T12:37:26.555Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -42,46 +209,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BIWebApi",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BI.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "BI.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:37:36.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Stock.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Stock.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Stock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:59:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Payment.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Payment.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:58:12.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Sale.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Sale.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Sale.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:50:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Warehouse.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Warehouse.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:47:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Brand.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Lookups\\Brand.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Brand.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Lookups\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:29:13.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Nomenclature.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Nomenclature.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Nomenclature.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Nomenclature.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Nomenclature.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:04:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Store.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Lookups\\Store.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Store.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Lookups\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T08:01:16.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Models\\Employee.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Models\\Employee.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:56:35.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Region.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Lookups\\Region.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Lookups\\Region.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Lookups\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:49:35.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseLookup.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Base\\BaseLookup.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Base\\BaseLookup.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Base\\BaseLookup.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Base\\BaseLookup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:31:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BI.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BI.Domain\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "BI.Domain\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T07:23:57.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BIWebApi.csproj",
               "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\BIWebApi.csproj",
               "RelativeDocumentMoniker": "BIWebApi\\BIWebApi.csproj",
               "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\BIWebApi.csproj",
               "RelativeToolTip": "BIWebApi\\BIWebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-06-20T11:54:22.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\Program.cs",
               "RelativeDocumentMoniker": "BIWebApi\\Program.cs",
               "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\Program.cs",
               "RelativeToolTip": "BIWebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-20T11:53:38.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BIWebApi\\Properties\\launchSettings.json",
               "ToolTip": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "BIWebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-20T11:49:49.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\GitHub\\BI-systems\\BIWebApi\\BIWebApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BIWebApi\\appsettings.Development.json",

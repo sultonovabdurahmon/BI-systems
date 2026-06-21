@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="BI.Application/BI.Application.csproj" Id="5b731423-aa14-43ad-a7e8-efa6ddf316b9" />
+  <Project Path="BI.Domain/BI.Domain.csproj" Id="99ed9939-d854-4aba-aeb4-1bcd4f644133" />
+  <Project Path="BI.Infrastructure/BI.Infrastructure.csproj" Id="3b54c443-5ad7-45eb-bb74-a240e86f91b2" />
   <Project Path="BIWebApi/BIWebApi.csproj" />
 </Solution>

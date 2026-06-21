@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BIWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95a5486cc4f6e74a63656886ad65ee473ad6a130")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ddd69f1f8cf7909997e7055e45031b431d21a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BIWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BIWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
