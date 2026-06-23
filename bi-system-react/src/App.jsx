@@ -1,14 +1,11 @@
-import { Button } from "@chakra-ui/react"
-import { useState } from 'react'
-import './App.css'
+import Sidebar from "./components/Sidebar/Sidebar";
 
 function App() {
-  const [count, setCount] = useState(0)
   return (
-    <>
-      <Button onClick={() => setCount(count => count+1)}> Click me {count}</Button>
-    </>
-  )
+    <div>
+      <Sidebar />
+    </div>
+  );
 }
 
-export default App
+export default App;

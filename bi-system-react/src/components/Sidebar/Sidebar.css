@@ -1,0 +1,86 @@
+.sidebar {
+  width: 220px;
+  height: 100vh;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px 10px;
+  box-sizing: border-box;
+}
+
+.top {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.menu {
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.menu img {
+  width: 22px;
+  height: 22px;
+}
+
+/* ITEM (default) */
+.item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 10px 12px;
+  border-radius: 10px;
+
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.item img {
+  width: 20px;
+  height: 20px;
+  opacity: 0.6;
+}
+
+.item span {
+  font-size: 14px;
+  color: #555;
+}
+
+/* ACTIVE (blue pill like image) */
+.item.active {
+  background: #4379EE;
+}
+
+.item.active span {
+  color: white;
+  font-weight: 500;
+}
+
+.item.active img {
+  opacity: 1;
+  filter: brightness(0) invert(1);
+}
+
+/* LOGOUT */
+.logout {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.logout img {
+  width: 20px;
+  height: 20px;
+  opacity: 0.6;
+}
+
+.logout span {
+  font-size: 14px;
+  color: #555;
+}
