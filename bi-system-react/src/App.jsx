@@ -30,20 +30,30 @@
 
 
 
-import { Routes, Route } from "react-router-dom";
+// import { Routes, Route } from "react-router-dom";
 
-import Login from "./pages/Login/Login";
-import Register from "./pages/Register/Register";
-import NotFound from "./pages/NotFound/NotFound";
+// import Login from "./pages/Login/Login";
+// import Register from "./pages/Register/Register";
+// import NotFound from "./pages/NotFound/NotFound";
+
+// function App() {
+//   return (
+//     <Routes>
+//       <Route path="/" element={<Login />} />
+//       <Route path="/register" element={<Register />} />
+//       <Route path="*" element={<NotFound />} />
+//     </Routes>
+//   );
+// }
+
+// export default App;
+
+
+
+import Home from "./pages/Home/Home";
 
 function App() {
-  return (
-    <Routes>
-      <Route path="/" element={<Login />} />
-      <Route path="/register" element={<Register />} />
-      <Route path="*" element={<NotFound />} />
-    </Routes>
-  );
+  return <Home />;
 }
 
 export default App;
