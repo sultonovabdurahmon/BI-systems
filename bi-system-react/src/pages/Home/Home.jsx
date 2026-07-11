@@ -1,4 +1,4 @@
-import Sidebar from "../../components/Sidebar/Sidebar";
+// import Sidebar from "../../components/Sidebar/Sidebar";
 import StatCard from "../../components/StatCard/StatCard";
 import SalesChart from "../../components/SalesChart/SalesChart";
 import DealsDetails from "../../components/DealsDetails/DealsDetails";
@@ -110,7 +110,6 @@ function Home() {
 
   return (
     <div className="home">
-      <Sidebar />
 
       <main className="home-content">
         {/* TOP BAR */}

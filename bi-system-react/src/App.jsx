@@ -50,10 +50,46 @@
 
 
 
+// import Home from "./pages/Home/Home";
+
+// function App() {
+//   return <Home />;
+// }
+
+// export default App;
+
+
+
+import { Routes, Route } from "react-router-dom";
+
+import Sidebar from "./components/Sidebar/Sidebar";
+
 import Home from "./pages/Home/Home";
+import Products from "./pages/Products/Products";
+
+import "./App.css";
 
 function App() {
-  return <Home />;
+  return (
+    <div className="app">
+
+      <Sidebar />
+
+      <main className="main-content">
+        <Routes>
+
+          <Route path="/" element={<Home />} />
+
+          <Route 
+            path="/products" 
+            element={<Products />} 
+          />
+
+        </Routes>
+      </main>
+
+    </div>
+  );
 }
 
 export default App;

@@ -1,5 +1,5 @@
-import { useState } from "react";
 import "./Sidebar.css";
+import { NavLink } from "react-router-dom";
 
 import menuIcon from "../../assets/icons/menu.svg";
 import dashboardIcon from "../../assets/icons/dashboard.svg";
@@ -19,23 +19,21 @@ import settingsIcon from "../../assets/icons/settings.svg";
 import powerIcon from "../../assets/icons/power.svg";
 
 function Sidebar() {
-  const [activeIndex, setActiveIndex] = useState(0);
-
   const items = [
-    { icon: dashboardIcon, label: "Dashboard" },
-    { icon: productIcon, label: "Products" },
-    { icon: favouritesIcon, label: "Favorites" },
-    { icon: chatIcon, label: "Inbox" },
-    { icon: orderlistIcon, label: "Order Lists" },
-    { icon: stockIcon, label: "Product Stock" },
-    { icon: pricingIcon, label: "Pricing" },
-    { icon: calendarIcon, label: "Calendar" },
-    { icon: todoIcon, label: "Todo" },
-    { icon: contactIcon, label: "Contact" },
-    { icon: invoiceIcon, label: "Invoice" },
-    { icon: teamIcon, label: "Team" },
-    { icon: UIelementIcon, label: "UI Elements" },
-    { icon: settingsIcon, label: "Settings" },
+    { icon: dashboardIcon, label: "Dashboard", path: "/" },
+    { icon: productIcon, label: "Products", path: "/products" },
+    { icon: favouritesIcon, label: "Favorites", path: "/favorites" },
+    { icon: chatIcon, label: "Inbox", path: "/inbox" },
+    { icon: orderlistIcon, label: "Order Lists", path: "/orders" },
+    { icon: stockIcon, label: "Product Stock", path: "/stock" },
+    { icon: pricingIcon, label: "Pricing", path: "/pricing" },
+    { icon: calendarIcon, label: "Calendar", path: "/calendar" },
+    { icon: todoIcon, label: "Todo", path: "/todo" },
+    { icon: contactIcon, label: "Contact", path: "/contact" },
+    { icon: invoiceIcon, label: "Invoice", path: "/invoice" },
+    { icon: teamIcon, label: "Team", path: "/team" },
+    { icon: UIelementIcon, label: "UI Elements", path: "/ui-elements" },
+    { icon: settingsIcon, label: "Settings", path: "/settings" },
   ];
 
   return (
@@ -45,15 +43,17 @@ function Sidebar() {
           <img src={menuIcon} alt="menu" />
         </div>
 
-        {items.map((item, index) => (
-          <div
-            key={index}
-            className={`item ${activeIndex === index ? "active" : ""}`}
-            onClick={() => setActiveIndex(index)}
+        {items.map((item) => (
+          <NavLink
+            key={item.label}
+            to={item.path}
+            className={({ isActive }) =>
+              isActive ? "item active" : "item"
+            }
           >
             <img src={item.icon} alt={item.label} />
             <span>{item.label}</span>
-          </div>
+          </NavLink>
         ))}
       </div>
 
