@@ -37,15 +37,15 @@ function Sidebar() {
   ];
 
   return (
-    <div className="sidebar">
+    <aside className="sidebar">
       <div className="top">
         <div className="menu">
-          <img src={menuIcon} alt="menu" />
+          <img src={menuIcon} alt="Menu" />
         </div>
 
         {items.map((item) => (
           <NavLink
-            key={item.label}
+            key={item.path}
             to={item.path}
             className={({ isActive }) =>
               isActive ? "item active" : "item"
@@ -58,10 +58,10 @@ function Sidebar() {
       </div>
 
       <div className="logout">
-        <img src={powerIcon} alt="logout" />
+        <img src={powerIcon} alt="Logout" />
         <span>Logout</span>
       </div>
-    </div>
+    </aside>
   );
 }
 

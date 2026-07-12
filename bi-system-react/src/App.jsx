@@ -66,6 +66,7 @@ import Sidebar from "./components/Sidebar/Sidebar";
 
 import Home from "./pages/Home/Home";
 import Products from "./pages/Products/Products";
+import Favorites from "./pages/Favorites/Favorites";
 
 import "./App.css";
 
@@ -77,14 +78,9 @@ function App() {
 
       <main className="main-content">
         <Routes>
-
           <Route path="/" element={<Home />} />
-
-          <Route 
-            path="/products" 
-            element={<Products />} 
-          />
-
+          <Route path="/products" element={<Products />} />
+          <Route path="/favorites" element={<Favorites />} />
         </Routes>
       </main>
 

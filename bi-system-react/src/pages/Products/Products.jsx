@@ -46,7 +46,7 @@ function Products() {
     <div className="product-page">
 
       <h1 className="product-title">
-        Product
+        Products
       </h1>
 
       <div className="product-banner">
