@@ -1,12 +1,21 @@
 .sidebar {
   width: 220px;
-  height: 100vh;
+  min-height: 100vh;
   background: #ffffff;
+
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+
   padding: 20px 10px;
   box-sizing: border-box;
+
+  border-right: 1px solid #E9ECEF;
+
+  position: sticky;
+  top: 0;
+
+  overflow-y: auto;
 }
 
 .top {
@@ -16,7 +25,7 @@
 }
 
 .menu {
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   padding-left: 10px;
 }
 
